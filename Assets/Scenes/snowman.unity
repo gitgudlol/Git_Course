@@ -921,11 +921,11 @@ PrefabInstance:
     - target: {fileID: 1103768813069979644, guid: 038c4b6dc62edf79dbfc2a7ecbd22b84, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a0e243fdb831bb2a098e224d19e9526a, type: 2}
+      objectReference: {fileID: 2100000, guid: 83aab23a5fcd374ce88cbcc7d2b63056, type: 2}
     - target: {fileID: 1307979624196017833, guid: 038c4b6dc62edf79dbfc2a7ecbd22b84, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a0e243fdb831bb2a098e224d19e9526a, type: 2}
+      objectReference: {fileID: 2100000, guid: 83aab23a5fcd374ce88cbcc7d2b63056, type: 2}
     - target: {fileID: 8672173398234568953, guid: 038c4b6dc62edf79dbfc2a7ecbd22b84, type: 3}
       propertyPath: m_Name
       value: hat
